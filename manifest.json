@@ -1,0 +1,110 @@
+{
+	"version": 2,
+	"pipeline": "82ae969be6d1a5c9cc8f3c833d1642a75cbf39521f48358caa0e8309efa6d9fe",
+	"documents": {
+		"/articles/degrees": {
+			"key": "aac8d2f652a5f1a6e2903317b2c90ff5d5b187a2ce6d4eecb05e419f8a905adc",
+			"bytes": 1876983
+		},
+		"/articles/degrees/info": {
+			"key": "32c674b28046e66dd2fac2f8c82ae2dcd43697e9c836bcd40911427a518918f2",
+			"bytes": 72968
+		},
+		"/articles/degrees/privacy": {
+			"key": "930950b6018a3c7861863c294c3aee03cef4cb9bd60a997e2216dffa8a33528c",
+			"bytes": 50987
+		},
+		"/articles/pocket-congress": {
+			"key": "fc420c48d3c842ccf89e2d1f4eb15aabb1579e0406f8c70531741648ca33bea3",
+			"bytes": 10107505
+		},
+		"/articles/pocket-congress/sunset": {
+			"key": "d997854321caec3e39d3e54d8059293a1911ec64d3d99a69cc88d5d855d094b1",
+			"bytes": 74274
+		},
+		"/docs/fwd": {
+			"key": "c949cf3b94b9e153b7af40ee8358480b4aae2e7ba7d1af16ff4be46bb4b5fed0",
+			"bytes": 282975
+		},
+		"/docs/fwd/agents": {
+			"key": "c949cf3b94b9e153b7af40ee8358480b4aae2e7ba7d1af16ff4be46bb4b5fed0",
+			"bytes": 80737
+		},
+		"/docs/fwd/commands": {
+			"key": "c949cf3b94b9e153b7af40ee8358480b4aae2e7ba7d1af16ff4be46bb4b5fed0",
+			"bytes": 134326
+		},
+		"/docs/fwd/configuration": {
+			"key": "c949cf3b94b9e153b7af40ee8358480b4aae2e7ba7d1af16ff4be46bb4b5fed0",
+			"bytes": 114452
+		},
+		"/docs/fwd/getting-started": {
+			"key": "c949cf3b94b9e153b7af40ee8358480b4aae2e7ba7d1af16ff4be46bb4b5fed0",
+			"bytes": 89634
+		},
+		"/docs/fwd/troubleshooting": {
+			"key": "c949cf3b94b9e153b7af40ee8358480b4aae2e7ba7d1af16ff4be46bb4b5fed0",
+			"bytes": 82907
+		},
+		"/docs/interlens": {
+			"key": "9c960f8cb86f6575d2b2d8192aaafcb3cbc557ed8f8c793ffa8a863c5e955070",
+			"bytes": 24816491
+		},
+		"/docs/interlens/examples": {
+			"key": "b2a81243115c0ccd14107c56536987d0495f20bcb324a532e826d6d12adec69e",
+			"bytes": 121045
+		},
+		"/docs/interlens/examples/01_quickstart": {
+			"key": "b2a81243115c0ccd14107c56536987d0495f20bcb324a532e826d6d12adec69e",
+			"bytes": 109201
+		},
+		"/docs/interlens/examples/02_conversations": {
+			"key": "b2a81243115c0ccd14107c56536987d0495f20bcb324a532e826d6d12adec69e",
+			"bytes": 163471
+		},
+		"/docs/interlens/examples/03_participants_and_models": {
+			"key": "b2a81243115c0ccd14107c56536987d0495f20bcb324a532e826d6d12adec69e",
+			"bytes": 175156
+		},
+		"/docs/interlens/examples/04_context_and_serialization": {
+			"key": "b2a81243115c0ccd14107c56536987d0495f20bcb324a532e826d6d12adec69e",
+			"bytes": 104789
+		},
+		"/docs/interlens/examples/05_tools": {
+			"key": "b2a81243115c0ccd14107c56536987d0495f20bcb324a532e826d6d12adec69e",
+			"bytes": 104741
+		},
+		"/docs/interlens/examples/06_hooks": {
+			"key": "b2a81243115c0ccd14107c56536987d0495f20bcb324a532e826d6d12adec69e",
+			"bytes": 93282
+		},
+		"/docs/interlens/examples/07_interp": {
+			"key": "b2a81243115c0ccd14107c56536987d0495f20bcb324a532e826d6d12adec69e",
+			"bytes": 123954
+		},
+		"/docs/interlens/examples/08_rollouts_and_scale": {
+			"key": "b2a81243115c0ccd14107c56536987d0495f20bcb324a532e826d6d12adec69e",
+			"bytes": 188044
+		},
+		"/docs/interlens/examples/09_advanced_interp_pipelines": {
+			"key": "b2a81243115c0ccd14107c56536987d0495f20bcb324a532e826d6d12adec69e",
+			"bytes": 137576
+		},
+		"/docs/interlens/examples/10_arena": {
+			"key": "b2a81243115c0ccd14107c56536987d0495f20bcb324a532e826d6d12adec69e",
+			"bytes": 231688
+		},
+		"/docs/interlens/examples/11_negotiation": {
+			"key": "b2a81243115c0ccd14107c56536987d0495f20bcb324a532e826d6d12adec69e",
+			"bytes": 181046
+		},
+		"/docs/interlens/examples/12_control_tower": {
+			"key": "b2a81243115c0ccd14107c56536987d0495f20bcb324a532e826d6d12adec69e",
+			"bytes": 110658
+		},
+		"/resume": {
+			"key": "ed2c0c466864508824cd119f1fd1b9b3b1fb93045419c75dd34c4b76e9604499",
+			"bytes": 47195
+		}
+	}
+}
